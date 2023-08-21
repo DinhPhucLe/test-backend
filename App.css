@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  border: 1px solid grey;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 15px;
+
+}
